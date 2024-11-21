@@ -1,0 +1,180 @@
+@charset "UTF-8";
+
+*  {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+   
+
+}
+
+h2 {
+    color: rgb(198, 198, 241);
+    text-align: justify;
+    background-image: linear-gradient(to right, rgb(69, 69, 177), transparent);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 8px;
+}
+
+body {
+    background-image: linear-gradient(rgb(139, 139, 235), rgb(21, 21, 124), rgb(6, 6, 71));
+
+}
+
+header > p {
+    padding-top: 20px;
+    color: rgb(24, 148, 162);
+    font-weight: bold;
+}
+
+
+header {
+    background-color: rgb(154, 198, 255);
+    color: rgba(214, 230, 255, 0.836);
+    padding: 40px 60px;
+    border-radius: 10px 10px 0px 0px;
+    background-image: linear-gradient(rgb(85, 164, 255), rgb(13, 13, 78));
+    text-align: center;
+    }
+
+    img.play4 {
+        display:inline-block;
+        width: 80px;
+        margin: 10px;
+    }
+
+
+    img.psp {
+        display:inline-block;
+        width: 50px;
+        margin: 10px;
+    }
+
+    img.play2 {
+    display:inline-block;
+    width: 40px;
+    margin: 10px;
+
+    }
+
+    img.psvita {
+        display:inline-block;
+        width: 50px;
+        margin: 10px;
+    }
+
+    img .psvita {
+        display:inline-block;
+        width: 50px;
+        margin: 10px;
+    }
+
+img.nitendo {
+    display:inline-block;
+    width: 80px;
+    margin: 10px;
+}
+
+img.xbox {
+    display: inline-block;
+    width: 70px;
+    margin: 10px;
+}
+
+nav {
+    background-color: rgb(13, 13, 78);
+    padding:12px ;
+    text-align: center;
+    margin-bottom: 0px;
+    border-radius: 0px 0px 30px 30px;
+    
+    
+}
+
+nav a {
+        
+    color: rgba(8, 175, 225, 0.996);   
+    text-decoration: none;
+    margin: 16px;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 3px;      
+}
+
+nav a:hover {
+    color: rgb(29, 14, 43);
+    background-color:rgb(45, 127, 220) ;
+    font-weight: bold;
+    margin: 16px;
+    text-decoration: none;
+    padding: 5px;
+}
+
+main {
+    background-color: rgb(116, 165, 165);   
+    margin: 0px 50px;
+    border-radius: 0px 0px 10px 10px;
+    background-image: linear-gradient(to right, rgb(124, 129, 133), transparent); 
+}
+
+main > ul {
+    margin-left: 30px;
+    columns: 2;
+    font-size: 20px;
+    text-align: justify;   
+}
+
+ li {
+    
+    color: rgb(39, 4, 136);  
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10pxpx;
+    text-align:justify;   
+}
+
+main > h1  {
+    background-image: linear-gradient(to right, rgb(108, 108, 226),transparent);
+    color: gainsboro;
+    margin: 8px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+main > ol > h2 {
+    text-align: center;
+    font-size: 3em;    
+}
+
+main > ol >li {
+    font-size: 20px;
+    text-align:  justify;
+    margin-left: 45%;
+
+}
+
+footer {
+    background-color: rgb(154, 198, 255);
+    color: rgba(214, 230, 255, 0.836);
+    padding: 40px 60px;
+    margin: 7px;
+    border-radius: 10px 10px 0px 0px;
+    background-image: linear-gradient(rgb(85, 164, 255), rgb(13, 13, 78));
+    text-align: center;
+}
+
+footer a {
+    color: azure;
+    padding: 3px;
+    margin: 5px;
+    text-decoration: none;
+}
+footer a:hover {
+    color: rgb(38, 185, 185);
+    background-color: black;
+    padding: 3px;
+    text-decoration: underline;
+}
+
+
